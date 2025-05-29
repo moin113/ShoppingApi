@@ -1,0 +1,6 @@
+@MyntraClone.API_HostAddress = http://localhost:5037
+
+GET {{MyntraClone.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
